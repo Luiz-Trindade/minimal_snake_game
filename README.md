@@ -6,6 +6,8 @@
 
 <h3>
 -Created By: Luiz Gabriel Magalhães Trindade.
+<br>
 -Distributed Under The GPL3 License.
+<br>
 -GPL3 License: https://www.gnu.org/licenses/gpl-3.0.en.html#license-text
 </h3>
