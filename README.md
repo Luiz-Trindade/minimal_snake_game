@@ -1,6 +1,6 @@
-<h1>Minimal Snake Game Made In Python!</h1>
-
 <image src="https://www.gnu.org/graphics/gplv3-127x51.png">
+
+<h1>Minimal Snake Game Made In Python!</h1>
 
 <image src="snake_screenshot.png">
 
